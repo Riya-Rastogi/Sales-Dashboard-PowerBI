@@ -1,4 +1,5 @@
 ![Sales Dashboard](https://github.com/Riya-Rastogi/Sales-Dashboard-PowerBI/blob/b4a63be788f451d690c1688f39111abfca99ee43/output.png?raw=true)
+![Dataset Preview](https://github.com/Riya-Rastogi/Sales-Dashboard-PowerBI/blob/a011c787eabc040c99a80ec0b233ed9db9830715/dataset.png?raw=true)
 
 ## 📊 Report 1 – Dashboard Overview
 
